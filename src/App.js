@@ -1,23 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import Model from "./Components/Model";
+import Navbar from "./Components/Navbar";
+// import bg from "../public/Images/model-3.jpg";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="bg-[url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg)] h-screen bg-cover bg-center">
+      <Navbar />
+      <Model />
+      {/* <img src={bg} alt="" /> */}
     </div>
   );
 }
