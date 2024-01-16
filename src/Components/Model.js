@@ -7,7 +7,7 @@ const Model = () => {
       <div className=" absolute inset-x-0 top-[20%] text-center">
         <h1 className="text-4xl font-bold">Model 3</h1>
         <p className="p-2 text-sm">
-          Oreder Online for &nbsp;
+          Order Online for &nbsp;
           <a href="https://www.tesla.com/support/taking-delivery">
             <span className=" underline underline-offset-4">
               Touchless Delivery
