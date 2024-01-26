@@ -1,3 +1,6 @@
+
+![Tesla](https://github.com/NimeshLathiya/tesla_clone/assets/142136394/8f96f12d-5e76-4fbc-9f99-03c9397a2f52)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
