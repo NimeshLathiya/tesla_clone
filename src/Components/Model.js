@@ -1,4 +1,4 @@
-import React from "react";
+import  from "react";
 import { FiChevronDown } from "react-icons/fi";
 
 const Model = () => {
