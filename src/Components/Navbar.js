@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { TfiClose } from "react-icons/tfi";
 
 const Navbar = () => {
-  const [nav, setNav] = useState();
+  const [nav, setNav] = useState(false);
 
   const handleNav = () => {
     setNav(!nav);
