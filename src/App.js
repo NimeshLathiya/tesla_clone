@@ -5,7 +5,7 @@ import Navbar from "./Components/Navbar";
 function App() {
   return (
     <div className="bg-[url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg)] h-screen bg-cover bg-center">
-      <Navbar />
+      < />
       <Model />
       {/* <img src={bg} alt="" /> */}
     </div>
