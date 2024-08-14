@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, {  } from "react";
 import { TfiClose } from "react-icons/tfi";
 
 const Navbar = () => {
