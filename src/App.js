@@ -1,4 +1,4 @@
-import Model from "./Components/Model";
+import  from "./Components/Model";
 import Navbar from "./Components/Navbar";
 // import bg from "../public/Images/model-3.jpg";
 
