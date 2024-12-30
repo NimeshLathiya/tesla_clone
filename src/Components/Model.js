@@ -1,5 +1,5 @@
 import React from "react";
-import {  } from "react-icons/fi";
+import { FiChevronDown } from "react-icons/fi";
 
 const Model = () => {
   return (
